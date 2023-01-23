@@ -98,7 +98,7 @@ Satisfies all of the above acceptance criteria plus the following:
 
 1. Create a new repository on github (main) and clone it (local) into own computer. 
 
-2. Create a project Work Day Scheduler with starter-code downloaded from the main UCF Modules.
+2. Create a project Work Day Scheduler with starter-code downloaded from Gitlab.
 
 3. Start with making basic index.html somewhat similar to the mock-up. Then, create a css.style and script.js within an assets folder. Assets folder will also hold image. 
 
